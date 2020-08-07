@@ -1,0 +1,110 @@
+java入门{	
+	JavaSE零基础
+	https://www.bilibili.com/video/BV1P7411V7nQ
+
+	JavaSE进阶
+	https://www.bilibili.com/video/BV1mE411x7Wt
+}
+
+数据库{
+	MySQL
+	https://www.bilibili.com/video/BV1fx411X7BD
+
+	JDBC
+	https://www.bilibili.com/video/BV1Bt41137iB
+}
+
+javaWeb(前后端) {
+	HTML
+	https://www.bilibili.com/video/BV11t411K74Q
+
+	CSS
+	https://www.bilibili.com/video/BV1tt411M7Vj
+
+	JavaScript
+	https://www.bilibili.com/video/BV1Ft411N7R3
+
+	Javaweb学习必备-JavaWeb学习总纲-互联网通信流程
+	https://www.bilibili.com/video/BV1Rk4y167L3
+
+	Web服务器之HTTP协议与Tomcat服务器
+	https://www.bilibili.com/video/BV1sp4y1X7Tw
+
+	Servlet
+	https://www.bilibili.com/video/BV1y5411p7kb
+
+	JSP
+	https://www.bilibili.com/video/BV1354y1Q7pA
+
+	AJAX
+	https://www.bilibili.com/video/BV15k4y167XM
+
+	jQuery
+	https://www.bilibili.com/video/BV1Jg4y1B7n4
+}
+
+SVN（版本控制系统）
+https://www.bilibili.com/video/BV1ux411j7H2
+
+EGOV项目（二选一，项目练习）
+https://www.bilibili.com/video/BV194411c7SL
+
+CRM项目（二选一，项目练习）
+https://www.bilibili.com/video/BV1fT4y1E7a6
+
+Linux(服务器部署系统)
+https://www.bilibili.com/video/BV1Li4y1V7pG
+
+	回归旧知识
+	放松一个两个星期放松
+
+JDK动态代理（AOP）
+https://www.bilibili.com/video/BV1HZ4y1p7F1
+
+Maven项目对象模型 (POM)
+https://www.bilibili.com/video/BV1dp4y1Q7Hf
+
+Maven进阶
+https://www.bilibili.com/video/BV1kg4y187td
+
+MyBatis(三层框架)
+https://www.bilibili.com/video/BV185411s7Ry
+
+Spring
+https://www.bilibili.com/video/BV1nz4y1d7uy
+
+springmvc
+https://www.bilibili.com/video/BV1sk4y167pD
+
+Dubbo
+https://www.bilibili.com/video/BV1Sk4y197eD
+
+Redis
+https://www.bilibili.com/video/BV1Uz4y1X72A
+
+SpringBoot（集成框架！！！重点）
+https://www.bilibili.com/video/BV1PZ4y1j7QK
+
+Nginx
+https://www.bilibili.com/video/BV11V411C7r9
+
+springsession
+https://www.bilibili.com/video/BV1iK411p7dZ
+
+FastDFS
+https://www.bilibili.com/video/BV1ta4y1v7Kw
+
+RabbitMQ
+https://www.bilibili.com/video/BV1Ap4y1D7tU
+
+SpringCloud
+https://www.bilibili.com/video/BV1aC4y1p7Qi
+
+Mycat
+https://www.bilibili.com/video/BV1gK4y1b7iU
+
+Shiro安全框架实战
+https://www.bilibili.com/video/BV14T4y1g75M
+
+最终练习Java项目-互联网大型电商项目实战教程
+https://www.bilibili.com/video/BV1RQ4y1K7Pq
